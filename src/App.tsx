@@ -19,7 +19,7 @@ type Project = {
   tone: string;
 };
 
-const whatsappUrl = 'https://api.whatsapp.com/send?text=Olá! Quero criar um site para o meu negócio.';
+const whatsappUrl = 'https://wa.me/5531984350134?text=Olá! Quero criar um site para o meu negócio.';
 
 const projects: Project[] = [
   {
